@@ -1,2 +1,2 @@
-# Kaggle_Data_Science_Challenges
+# Data Science Challenges on Kaggle
 Data Science challenges @ Kaggle
